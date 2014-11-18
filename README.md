@@ -1,8 +1,7 @@
-datasciencecoursera
-===================
+## datasciencecoursera README
 
-Repo for Coursera Data Science class
+* Repo for Coursera Data Science class
 
-This is the README.md markdown file
+* This is the README.md markdown file
 
-and it is simple.
+* and it is simple.
